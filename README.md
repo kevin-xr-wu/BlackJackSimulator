@@ -10,4 +10,4 @@ Players and dealers have basic strategies, hitting until 17 or bust.
 From 1000 hands, we can see that the control group loses more often and more money than the test group who are counting cards.
 Of course, the dealer always walks as the winner. 
 
-This proves my hypothesis that counting cards gives a significant advantage those who do not, but still loses money to the house. 
+This proves my hypothesis that counting cards gives a significant advantage to those who do not, but still loses money to the house. 
