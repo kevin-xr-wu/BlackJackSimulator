@@ -1,0 +1,120 @@
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 120000
+Lost 30000 dollars
+Test Players
+Begin sum: 150000
+End sum: 123100
+Lost 26900 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 106900
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 118400
+Lost 31600 dollars
+Test Players
+Begin sum: 150000
+End sum: 128300
+Lost 21700 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 103300
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 122200
+Lost 27800 dollars
+Test Players
+Begin sum: 150000
+End sum: 129600
+Lost 20400 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 98200
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 122600
+Lost 27400 dollars
+Test Players
+Begin sum: 150000
+End sum: 129400
+Lost 20600 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 98000
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 119400
+Lost 30600 dollars
+Test Players
+Begin sum: 150000
+End sum: 126500
+Lost 23500 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 104100
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 122400
+Lost 27600 dollars
+Test Players
+Begin sum: 150000
+End sum: 130100
+Lost 19900 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 97500
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 120600
+Lost 29400 dollars
+Test Players
+Begin sum: 150000
+End sum: 124800
+Lost 25200 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 104600
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 123000
+Lost 27000 dollars
+Test Players
+Begin sum: 150000
+End sum: 113400
+Lost 36600 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 113600
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 122600
+Lost 27400 dollars
+Test Players
+Begin sum: 150000
+End sum: 128600
+Lost 21400 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 98800
+------------------------- End of the Day Results -------------------------
+Control Players
+Begin sum: 150000
+End sum: 117200
+Lost 32800 dollars
+Test Players
+Begin sum: 150000
+End sum: 128600
+Lost 21400 dollars
+Dealer
+Dealer began with: 50000
+Dealer End sum: 104200
